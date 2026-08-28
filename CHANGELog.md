@@ -17,7 +17,7 @@ This file lists all the updates made to our School Lost & Found System project.
 
 ---
 
-## Version v1.1.0 – August 25, 2026
+## Version v1.1.0 – August 28, 2026
 - Added item descriptions and locations to reports.
 - Added the date lost/found to the report.
 - Improved the display of lost and found item information.
