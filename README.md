@@ -40,13 +40,6 @@ Last Known Location: student lounge
 Date Lost: 8/28/2026
 Date Reported: 9/2/2026
 ==============================
-====Lost And Found Management System====
-1 - Report Lost Item
-2 - Report Found Item
-3 - View Lost Items
-4 - View Found Items
-5 - Exit
-======================================
 
 ## Contributors
 - Student 1: Zach Padillo (coder, tester)
