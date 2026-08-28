@@ -20,7 +20,7 @@ This is a simple Python program that helps students and school staff report, sea
 ## How to Run the Program
 1. Make sure you have Python installed.
 2. Download the file `lost_found_system.py`.
-3. Open the file in a Python editor such as IDLE or VS Code.
+3. Open the file in a Python editor.
 4. Run the program by pressing F5 or clicking "Run".
 5. Follow the on-screen instructions and choose an option from the menu.
 
@@ -46,6 +46,6 @@ Status: Found
 Location: School Library
 
 ## Contributors
-- Student 1: Zach Padillo (menu and user interface)
-- Student 2: Chloe Robles (lost and found item functions)
-- Student 3:Dennise Kristof Lim (search, claiming, and testing)
+- Student 1: Zach Padillo (coder, tester)
+- Student 2: Chloe Robles (documenter)
+- Student 3:Dennise Kristof Lim (coder, tester)
