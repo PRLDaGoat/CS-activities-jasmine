@@ -25,25 +25,28 @@ This is a simple Python program that helps students and school staff report, sea
 5. Follow the on-screen instructions and choose an option from the menu.
 
 ## Example Output
-==========================
-SCHOOL LOST & FOUND SYSTEM
-==========================
-1. Report a Lost Item
-2. Report a Found Item
-3. Search for an Item
-4. View All Lost Items
-5. View All Found Items
-6. Claim an Item
-7. View Claimed Items
-8. Exit
-
-Enter your choice: 3
-
-Enter item name to search: Black Wallet
-
-Item found!
-Status: Found
-Location: School Library
+====Lost And Found Management System====
+1 - Report Lost Item
+2 - Report Found Item
+3 - View Lost Items
+4 - View Found Items
+5 - Exit
+======================================
+Enter Option: 1
+=====Lost Item Report Form=====
+Item name: Black Wallet
+Item Description: dark grey almost black wallet with 450 pesos inside
+Last Known Location: student lounge
+Date Lost: 8/28/2026
+Date Reported: 9/2/2026
+==============================
+====Lost And Found Management System====
+1 - Report Lost Item
+2 - Report Found Item
+3 - View Lost Items
+4 - View Found Items
+5 - Exit
+======================================
 
 ## Contributors
 - Student 1: Zach Padillo (coder, tester)
