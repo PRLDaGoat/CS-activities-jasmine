@@ -17,7 +17,9 @@ Download the file lost_found_system.py.
 Open the file in a Python editor.
 Run the program by pressing F5 or clicking "Run".
 Follow the on-screen instructions and choose an option from the menu.
+
 Example Output
+
 ====Lost And Found Management System==== 1 - Report Lost Item 
 2 - Report Found Item 
 3 - View Lost Items
