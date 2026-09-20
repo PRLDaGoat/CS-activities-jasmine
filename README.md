@@ -40,4 +40,5 @@ Student 2: Chloe Robles (documenter)
 Student 3:Dennise Kristof Lim (Coder/Tester - Display and Report of Found Items, Debugger)
 
 PROJECT PROPOSAL(DRAFT):
-[Q1_LIMROBLESPADILLO_J_projproposal..pdf](https://github.com/user-attachments/files/32436402/Q1_LIMROBLESPADILLO_J_projproposal.pdf)
+[Q1_LimRoblesPadillo_J_projproposal. (2).pdf](https://github.com/user-attachments/files/32436485/Q1_LimRoblesPadillo_J_projproposal.2.pdf)
+
