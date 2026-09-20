@@ -38,3 +38,6 @@ Contributors
 Student 1: Zach Padillo (Coder/Tester - User Interface, Display and Report of Lost Items)
 Student 2: Chloe Robles (documenter)
 Student 3:Dennise Kristof Lim (Coder/Tester - Display and Report of Found Items, Debugger)
+
+PROJECT PROPOSAL(DRAFT):
+[Q1_LIMROBLESPADILLO_J_projproposal..pdf](https://github.com/user-attachments/files/32436402/Q1_LIMROBLESPADILLO_J_projproposal.pdf)
